@@ -1,1 +1,2 @@
-Some text here.
+## Notes
+[Array Lists](/notes/arraylists)
