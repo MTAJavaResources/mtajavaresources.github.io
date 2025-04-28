@@ -12,17 +12,17 @@ public class ArrayListNotes{
 ## Wrappers
 Array Lists don't use primatives-- instead they used Wrappers. Wrappers are a bit different, in the way they have a different way of decleration.
 ### Wrappers Names
-| primative | Wrapper |
-|-----------|---------|
-| int       | Integer |
-| double    | Double  |
-| byte      | Byte    |
-| boolean   | Boolean |
+
+int     --> Integer
+double  --> Double
+char    --> Character
+byte    --> Byte
+boolean --> Boolean
 Strings weren't primative to begin with, so there is no change in their names.
 
 ### Declaring a Wrapper
 You declare a wrapper as so:
-`Double myDouble = new Double(1.00);
+`Double myDouble = new Double(1.00);`
 
 ## Methods
 All without a . before hand you would put `{ArrayName}.` before.
