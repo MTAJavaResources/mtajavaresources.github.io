@@ -18,7 +18,6 @@ Array Lists don't use primatives-- instead they used Wrappers. Wrappers are a bi
 | double    | Double  |
 | byte      | Byte    |
 | boolean   | Boolean |
-
 Strings weren't primative to begin with, so there is no change in their names.
 
 ### Declaring a Wrapper
