@@ -31,6 +31,7 @@ All without a . before hand you would put `{ArrayName}.` before.
 Gets the length of the array list.
 ### Add
 `add(value)`
+
 Adds a value to a list.
 `add(value, index)`
 Inserts a value at a spesific index.
@@ -40,6 +41,7 @@ Returns a value from an index.
 ### Remove
 `remove(value)`
 Remove the first occurance of a value.
+
 `remove(index)`
 Removes an item at a spesific index.
 ### Contains
