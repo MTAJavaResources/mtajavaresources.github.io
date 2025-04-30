@@ -6,4 +6,4 @@
 ## Answers
 
 ***
-mtajavaresources.githubio is licensed with the [MIT License](/LICENSE).
+mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
