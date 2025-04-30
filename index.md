@@ -4,3 +4,6 @@
 ## Questions
 
 ## Answers
+
+***
+mtajavaresources.githubio is licensed with the [MIT License](/LICENSE).
