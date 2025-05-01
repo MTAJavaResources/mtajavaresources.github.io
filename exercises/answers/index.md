@@ -3,4 +3,4 @@
 ***
 mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
 
-[< Back to Exersises](/exersises)
+[< Back to Exersises](/exercises)
