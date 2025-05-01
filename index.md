@@ -8,4 +8,5 @@
 * [Array Lists](/exercises/answers/arraylists)
 
 ***
-mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
+mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).  
+[Sitemap](/sitemap)
