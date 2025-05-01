@@ -1,10 +1,10 @@
-## Notes
+## [Notes](/notes)
 * [Array Lists](/notes/arraylists)
 
-## Exercises
-### Questions
+## [Exercises](/exercises)
+### [Questions](/exercises/questions)
 * [Array Lists](/exercises/questions/arraylists)
-### Answers
+### [Answers](/exercises/answers)
 * [Array Lists](/exercises/answers/arraylists)
 
 ***
