@@ -1,6 +1,7 @@
 ## Exercises
 ### [Questions](/exercises/questions)
 * [Array Lists](/exercises/questions/arraylists)
+
 ### [Answers](exercises/answers)
 * [Array Lists](/exercises/answers/arraylists)
 
