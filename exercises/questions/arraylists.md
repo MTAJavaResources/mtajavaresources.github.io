@@ -49,3 +49,8 @@ Write code that does all of the following:
 35
 45
 ```
+
+***
+mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
+
+[< Back to Questions](/exercises/questions)

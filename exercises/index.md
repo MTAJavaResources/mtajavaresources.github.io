@@ -1,6 +1,3 @@
-## Notes
-* [Array Lists](/notes/arraylists)
-
 ## Exercises
 ### Questions
 * [Array Lists](/exercises/questions/arraylists)
@@ -8,3 +5,5 @@
 * [Array Lists](/exercises/answers/arraylists)
 ***
 mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
+
+[< Back to Homepage](/index)
