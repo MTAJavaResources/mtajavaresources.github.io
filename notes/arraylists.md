@@ -59,3 +59,8 @@ Adds everything from a seperate array list to the bottom.
 ### Sort
 `Collections.sort(array)`
 Sorts the list and changes the list to be sorted.
+
+***
+mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).
+
+[< Back to Notes](/notes)
