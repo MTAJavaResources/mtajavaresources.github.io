@@ -7,6 +7,8 @@
 ### [Answers](/exercises/answers)
 * [Array Lists](/exercises/answers/arraylists)
 
+[Java Definitions](/defs)
+
 ***
 mtajavaresources.github.io is licensed with the [MIT License](/LICENSE).  
 [Sitemap](/sitemap)
